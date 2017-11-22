@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.kanstren</groupId>
-    <artifactId>dumper</artifactId>
+    <artifactId>finnish-nlp</artifactId>
     <version>0.1</version>
     <packaging>jar</packaging>
     <name>Wikipedia dumper</name>
@@ -36,7 +36,7 @@
         <dependency>
             <groupId>org.puimula.voikko</groupId>
             <artifactId>libvoikko</artifactId>
-            <version>4.0.1</version>
+            <version>4.1.1</version>
         </dependency>
         <dependency>
             <groupId>org.apache.opennlp</groupId>
